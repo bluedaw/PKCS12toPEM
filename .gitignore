@@ -11,3 +11,15 @@
 *.lai
 *.la
 *.a
+
+*.obj
+*.pch
+*.tlog
+*.log
+*.lastbuildstate
+*.idb
+*.sbr
+*.idl
+*.map
+*.ilk
+*.bsc
